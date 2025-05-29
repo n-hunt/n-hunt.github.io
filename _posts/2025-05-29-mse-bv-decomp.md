@@ -4,6 +4,8 @@ title: "MSE Bias-Variance Decomposition: A Gentle Walkthrough"
 date: 2025-05-29 12:00:00 +0000
 ---
 
+Small warning: this post may not render well on mobile – possibly a GitHub Pages quirk. Works best on a desktop browser!
+
 ## Contents
 
 - [Preamble](#preamble)
