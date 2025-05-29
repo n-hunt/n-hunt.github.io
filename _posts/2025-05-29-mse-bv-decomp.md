@@ -4,6 +4,17 @@ title: "MSE Bias-Variance Decomposition: A Gentle Walkthrough"
 date: 2025-05-29 12:00:00 +0000
 ---
 
+## Contents
+
+- [Preamble](#preamble)
+- [Why Bother?](#why-bother)
+- [Assumptions and Definition](#assumptions-and-definition)
+- [Derivation](#derivation)
+- [Interpretation](#interpretation)
+- [Practical Implications](#practical-implications)
+- [Concluding Thoughts](#concluding-thoughts)
+
+
 ## Preamble 
 
 It's pretty normal to see a discussion of some sort on the bias-variance decomposition of the mean squared error (of a model) in most machine learning textbooks, often within a larger chapter or sub-section on the bias-variance tradeoff. In almost all of these textbooks, however, getting through the derivation of the expression feels a lot like a tricky obstacle course (think Wipeout or Ninja Warrior), making the entire process seem arbitrarily hard and even somewhat pointless.
