@@ -94,7 +94,7 @@ $$
 \mathbb{E}_{\epsilon_0, D}[(f(x_0) +\epsilon_0-\hat{f}_D(x_0))^2] = \mathbb{E}_{\epsilon_0, D}[((f(x_0) - \mathbb{E}_{D}[\hat{f}_D(x_0)]) + (\mathbb{E}_{D}[\hat{f}_D(x_0)] - \hat{f}_D(x_0)) + \epsilon_0)^2]
 $$
 
-Okay, quite a few terms. Let's let:
+Okay, quite a few terms. Let's define a few variables:
 
 $$
 \begin{split}
@@ -104,7 +104,7 @@ C &= \epsilon_0
 \end{split}
 $$
 
-Therefore let's re-write the expectation using our variables:
+And then re-write the expectation using our new variables:
 
 $$
 \begin{split}
