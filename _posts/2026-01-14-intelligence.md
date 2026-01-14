@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emergence is All You Need: Reconciling Modularity and the Positive Manifold"
-date: 2026-01-20
+date: 2026-01-14 12:00:00 +0000
 ---
 
 > **Abstract**
